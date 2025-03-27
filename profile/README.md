@@ -18,7 +18,7 @@ For a list of issues recommended for first time contributors, look [here](https:
 - [DMVBoardGames](https://github.com/Create-Third-Places/DMVBoardGames): Website for in person board game events in the DC area. It will use the backend APIs of this project.
 
 # Tech stack
-- Vanilla JavaScript on the UI.The UI might be moved to use a library or framework besides React.
+- Vanilla JavaScript on the UI. The UI might be moved to use a library or framework besides React.
 - Vanilla CSS.
 - PostgreSQL
 - Java
