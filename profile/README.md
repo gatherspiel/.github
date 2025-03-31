@@ -32,7 +32,7 @@ For a list of issues recommended for first time contributors, look [here](https:
 
 ## Development guidelines
 - Keep the changes limited to the scope of the issue. If you think it makes sense to update the scope, post a comment on the issue.
-- All code for a feature must be written by a developer. Code written by ChatGPT, GitHub Copilot, Claude Sonnet, or any other generative AI tool cannot be used.
+- All code for a feature must be written by a developer. Code written by ChatGPT, GitHub Copilot, Claude Sonnet, or any other generative AI tool cannot be used to write code. Also, AI should not be used to support any website functionality such as a group search.
 - If you want to introduce a new technology not listed as part of the tech stack, email gulu@createthirdplaces.com. Include details about the technology and why you think it would be useful. If it is determined that the technology is relevant, you will get a reply back indicating that it can be used.
 - All communication with the backend will be done through API endpoints implemented in the backend repo.
 
@@ -40,3 +40,13 @@ For a list of issues recommended for first time contributors, look [here](https:
 If you have a recommendation for a new feature, enhancment, or bug fix, create an issue in the development repo. Make sure any issues created follow these guidelines.
 - Working on the issue does not require using generative AI or machine learning tools.
 - All changes must support the goal of encouraging people to interact in person. For example, a feature for playing games on the Internet will not be added. On the other hand, a feature that makes it easier for people to find in person social events would be a good fit for the website.
+
+
+# Guidelines for architecture
+
+## Decoupling
+Decoupling different parts of the application is important to maintain flexibility in the technolgies we use. There are many factors determining the technologies we should use, and we can't predict all of them in advance. 
+
+It is possible that users may ask for a feature that isn't supported by the technolgy that is used, or it is determined that a technology used does not make sense with the scalability requirements. There might also be some roadblock we discover.
+
+It is possible that users may ask for a feature that is not supported 
