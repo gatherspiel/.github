@@ -28,18 +28,19 @@ For a list of issues recommended for first time contributors, look [here](https:
 ## Development proccess
 - Post a comment on an issue indicating that you want to start working on it.
 - Once the issue is assigned to you, and you are finished with a code change for the issue, create a PR to the main branch. If a feature is complex, split up the work into mupltiple smaller PRs if possible.
+- When creating a PR, include a description of the change.
 - Once a PR has passed the review, a maintainer will approve and merge it.
 
 ## Development guidelines
-- Keep the changes limited to the scope of the issue. If you think it makes sense to update the scope, post a comment on the issue.
+- If you are working on a change related to an issue, keep the changes limited to the scope of the issue. If you think it makes sense to update the scope, post a comment on the issue.
 - All code for a feature must be written by a developer. Code written by ChatGPT, GitHub Copilot, Claude Sonnet, or any other generative AI tool cannot be used to write code. Also, AI should not be used to support any website functionality such as a group search.
 - If you want to introduce a new technology not listed as part of the tech stack, email gulu@createthirdplaces.com. Include details about the technology and why you think it would be useful. If it is determined that the technology is relevant, you will get a reply back indicating that it can be used.
 - All communication with the backend will be done through API endpoints implemented in the backend repo.
 
 # Suggesting changes
 If you have a recommendation for a new feature, enhancment, or bug fix, create an issue in the development repo. Make sure any issues created follow these guidelines.
-- Working on the issue does not require using generative AI or machine learning tools.
-- All changes must support the goal of encouraging people to interact in person. For example, a feature for playing games on the Internet will not be added. On the other hand, a feature that makes it easier for people to find in person social events would be a good fit for the website.
+- All code should be written by a developer without the use of generative AI tools such as ChatGPT or GitHub Copilot. The  feature should also not be dependent on generative AI or machine learning tools.
+- All changes must support the goal of encouraging people to interact in person.  On the other hand, a feature that makes it easier for people to find in person social events would be a good fit for the website. Changes to improve usability or readability of the website are also encouraged.
 
 
 # Guidelines for architecture
