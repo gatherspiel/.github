@@ -12,9 +12,10 @@ For a list of issues recommended for first time contributors, look [here](https:
 
 # Repos
 
-- [development](https://github.com/Create-Third-Places/development): Documentation and scripts for development.
+- [api-testing](https://github.com/Create-Third-Places/api-testing): Automated testing of API endpoints.
 - [backend](https://github.com/Create-Third-Places/backend): Backend APIs.
 - [database](https://github.com/Create-Third-Places/database): Scripts related to the database.
+- [development](https://github.com/Create-Third-Places/development): Documentation and scripts for development.
 - [DMVBoardGames](https://github.com/Create-Third-Places/DMVBoardGames): Website for in person board game events in the DC area. It will use the backend APIs of this project.
 - [user-management](https://github.com/Create-Third-Places/user-management): Logic related to authentication, authorization, and managing users. This includes actions related to creating or deleting data that can only be modified by certain users.
 # Tech stack
