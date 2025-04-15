@@ -1,7 +1,7 @@
 # Development
 
 
-The goal of this project is to build a non commercial open source platform to help people organize and host in person events. The backend will also have an open API that other specialized websites can use to list and manage events.
+The goal of this project is to build a non commercial open source platform to help people organize and host in person board game events. The backend will also have an open API that other specialized websites can use to list and manage events.
 
 
 As a starting point, the project has a site specific for board games in the Washington, DC area, https://dmvboardgames.com/.
