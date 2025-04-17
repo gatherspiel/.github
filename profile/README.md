@@ -1,7 +1,9 @@
 # Development
 
 
-The goal of this project is to build a non commercial open source platform to help people organize and host in person board game events. The backend will also have an open API that other specialized websites can use to list and manage events.
+The goal of this project is to build a non commercial open source platform to help people organize and host in person board game events. The platform will consist of the following parts.
+- An open API that other specialized websites can use to list and manage events.
+- A zero dependency JavaScript UI framework designed for in person event listing websites.
 
 
 As a starting point, the project has a site specific for board games in the Washington, DC area, https://dmvboardgames.com/.
@@ -19,10 +21,12 @@ For a list of issues recommended for first time contributors, look [here](https:
 - [DMVBoardGames](https://github.com/Create-Third-Places/DMVBoardGames): Website for in person board game events in the DC area. It will use the backend APIs of this project.
 - [user-management](https://github.com/Create-Third-Places/user-management): Logic related to authentication, authorization, and managing users. This includes actions related to creating or deleting data that can only be modified by certain users.
 # Tech stack
-- Vanilla JavaScript on the UI. The UI might be moved to use a library or framework besides React.
+- Vanilla JavaScript with a long term goal of creating an using a custom framework.
 - Vanilla CSS.
 - PostgreSQL
 - Java
+
+
 
 # Development guidelines
 
