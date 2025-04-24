@@ -1,4 +1,4 @@
-# Development
+# Project overview
 
 
 The goal of this project is to build a non commercial open source platform to help people organize and host in person board game events. The platform will consist of the following parts.
