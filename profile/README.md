@@ -9,7 +9,7 @@ The goal of this project is to build a non commercial open source platform to he
 As a starting point, the project has a site specific for board games in the Washington, DC area, https://dmvboardgames.com/. [Here](https://github.com/Create-Third-Places/.github/blob/documentation-updates/profile/roadmap.md) is a more detailed roadmap
 
 
-For a list of issues recommended for first time contributors, look [here](https://github.com/Create-Third-Places/DMVBoardGames/issues?q=is%3Aissue%20state%3Aopen%20label%3A%22good%20first%20issue%22). Issues will have a point value indicating the estimated complexity. Other issues will be displayaed in the project repos.
+For a list of issues recommended for first time contributors, look [here](https://github.com/Create-Third-Places/DMVBoardGames/issues?q=is%3Aissue%20state%3Aopen%20label%3A%22good%20first%20issue%22). Issues will have a point value indicating the estimated complexity. Other issues will be displayed in the project repos.
 
 For more details about planned features, look [here](https://github.com/Create-Third-Places/.github/blob/main/planned_features.md)
 
