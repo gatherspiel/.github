@@ -55,7 +55,7 @@ Here is more information about planned features and updates
 - https://github.com/Create-Third-Places/database/issues/14
 - https://github.com/Create-Third-Places/backend/issues/31
 - https://github.com/Create-Third-Places/backend/issues/12
-- 
+  
 # Optimizations and refactoring
 
 - https://github.com/Create-Third-Places/backend/issues/74
@@ -78,7 +78,6 @@ Here is more information about planned features and updates
 - https://github.com/Create-Third-Places/DMVBoardGames/issues/195
 - https://github.com/Create-Third-Places/DMVBoardGames/issues/194
 - https://github.com/Create-Third-Places/DMVBoardGames/issues/193
-
 
   
 ## Adding or updating static page information
