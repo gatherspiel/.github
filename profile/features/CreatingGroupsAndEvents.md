@@ -1,0 +1,42 @@
+# Creating groups and events
+
+
+## Notes on goal
+
+The primary goal of this platform is to encourage people to connect in person. It will advertise in person events. It will also support people who want to host in person events by allowing them to create events and groups.
+
+To follow this goal, the platform will have a strict policy about posting direct links or details about any sort of online messaging platform or social media service. If users want to share contact information, they will need to do so by connecting in person.
+
+
+## Group visibility
+
+Initially, groups will be public. Private groups will not be supported. While people might find it useful to 
+have an online place to plan events, it might get in the way of planning events in person. If friends are already
+meeting in person, then people should be encouraged to talk in person or share contact details to asychronously plan.
+
+Also, given the goal of this platform, this means that people should be encouraged
+to use the site less often once as they interact more in person.
+
+
+## Guidelines for groups and event details
+- All events must be in person.
+- Organizers will be able to add event and group descriptions. However, the following will not be permitted in descriptions.
+  - Contact information in the description such as phone numbers or email addresses or social media usernames. This includes the organizer posting their own contact
+    details.
+  - Links expect for a link group webpage. Details relevant to the event on the webpage must be visible without 
+  - Direct links to Facebook, Twitter/X, Instagram, Bluesky, or any other social media platform.
+  - Direct links to websites that require paying money for any purpose. This includes payment associated with the event.
+  - 
+- If an organizer wants to share information that is not allowed in the group description, it can be shared on a group
+webpage that has a link posted in the description
+
+
+## Q/A
+
+**Am I allowed to collect money for the group?**
+
+Organizers can collect money. However, they cannot post payment details online. If organizers want to collect money, they must do so by collecting money or sharing relevant information in person.
+
+**What if my group has a social media or chat presence that I want to share?**
+
+Details can be shared in person. If you are posting a link to your website, information can also be shared there.
