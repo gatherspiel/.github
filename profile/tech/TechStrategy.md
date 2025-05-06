@@ -123,5 +123,5 @@ Here are reason why I prefer using Java.
 
 
 There are many other programming languages such as Go, PHP, or Python that are suitable for a complex backend. However, I
-have less experience with these languages compared to Java
+have less experience with these languages compared to Java.
 
