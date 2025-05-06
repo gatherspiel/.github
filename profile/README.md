@@ -7,15 +7,15 @@ The goal of this project is to build a non commercial open source platform to he
 
 
 As a starting point, the project has a site specific for board games in the Washington, DC area, https://dmvboardgames.com/. 
+
 ## Useful links to get started
 
-- Project [roadmap](https://github.com/Create-Third-Places/.github/blob/main/prplanned_features.md) 
-  
+- Project [roadmap](https://github.com/Create-Third-Places/.github/blob/main/prplanned_features.md)
 - List of issues recommended for first time contributors: [here](https://github.com/Create-Third-Places/DMVBoardGames/issues?q=is%3Aissue%20state%3Aopen%20label%3A%22good%20first%20issue%22).
 
 ## Planned features
 
-- Support for creating groups
+- [Support for creating groups and events](https://github.com/Create-Third-Places/.github/blob/main/profile/features/CreatingGroupsAndEvents.md)
 - [User accounts](https://github.com/Create-Third-Places/.github/blob/main/profile/features/UserAccounts.md)
 - For more details about planned features, look [here](https://github.com/Create-Third-Places/.github/blob/main/planned_features.md)
 
@@ -29,17 +29,21 @@ As a starting point, the project has a site specific for board games in the Wash
 - [DMVBoardGames](https://github.com/Create-Third-Places/DMVBoardGames): Website for in person board game events in the DC area. It will use the backend APIs of this project.
 - [user-management](https://github.com/Create-Third-Places/user-management): Logic related to authentication, authorization, and managing users. This includes actions related to creating or deleting data that can only be modified by certain users.
   
-# Tech stack
-- Vanilla JavaScript with a long term goal of creating an using a custom framework.
+# Tech notes
+
+## Tech stack
+- Vanilla JavaScript with a custom framework.
 - Vanilla CSS.
 - PostgreSQL
 - Java
+
+For more details, see the [tech strategy page](https://github.com/Create-Third-Places/.github/blob/main/tech/TechStrategy.md)
 
 
 
 # Development guidelines
 
-## Development proccess
+## Development process
 - Post a comment on an issue indicating that you want to start working on it.
 - Once the issue is assigned to you, and you are finished with a code change for the issue, create a PR to the main branch. If a feature is complex, split up the work into mupltiple smaller PRs if possible.
 - When creating a PR, include a description of the change.
@@ -54,7 +58,7 @@ Note: There are general guidelines that apply to the entire repo. For guidelines
 - All communication with the backend will be done through API endpoints implemented in the backend repo.
 
 ## Suggesting changes
-If you have a recommendation for a new feature, enhancment, or bug fix, create an issue. If it is clearly associated with a specific repo, create it as an issue for that repo. Otherwise, add it as an issue to the development repo. Make sure any issues created follow these guidelines:
+If you have a recommendation for a new feature, enhancement, or bug fix, create an issue. If it is clearly associated with a specific repo, create it as an issue for that repo. Otherwise, add it as an issue to the development repo. Make sure any issues created follow these guidelines:
 
 - All changes must support the goal of encouraging people to interact in person.  On the other hand, a feature that makes it easier for people to find in person social events would be a good fit for the website. Changes to improve usability or readability of the website are also encouraged.
 - All code should be written by a developer without the use of generative AI tools such as ChatGPT or GitHub Copilot.
@@ -70,8 +74,8 @@ If you have a recommendation for a new feature, enhancment, or bug fix, create a
 # Guidelines for architecture
 
 ## Decoupling
-Decoupling different parts of the application is important to maintain flexibility in the technolgies we use. There are many factors determining the technologies we should use, and we can't predict all of them in advance. 
+Decoupling different parts of the application is important to maintain flexibility in the technologies used. There are many factors determining the technologies we should use, and we can't predict all of them in advance. 
 
-It is possible that users may ask for a feature that isn't supported by the technolgy that is used, or it is determined that a technology used does not make sense with the scalability requirements. There might also be some roadblock we discover.
+It is possible that users may ask for a feature that isn't supported by the technology that is used, or it is determined that a technology used does not make sense with the scalability requirements. There might also be some roadblock we discover.
 
 It is possible that users may ask for a feature that is not supported 
