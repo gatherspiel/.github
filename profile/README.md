@@ -11,7 +11,7 @@ As a starting point, the project has a site specific for board games in the Wash
 ## Useful links to get started
 
 - Project [roadmap](https://github.com/Create-Third-Places/.github/blob/main/prplanned_features.md)
-- List of issues recommended for first time contributors: [here](https://github.com/Create-Third-Places/DMVBoardGames/issues?q=is%3Aissue%20state%3Aopen%20label%3A%22good%20first%20issue%22).
+- List of issues recommended for first time contributors: [here](https://github.com/Create-Third-Places/DMVBoardGames/issues?q=is%3Aissue%20state%3Aopen%20label%3A%22good%20first%20issue%22)
 
 ## Planned features
 
