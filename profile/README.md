@@ -37,7 +37,7 @@ As a starting point, the project has a site specific for board games in the Wash
 - PostgreSQL
 - Java
 
-For more details, see the [tech strategy page](https://github.com/Create-Third-Places/.github/blob/main/tech/TechStrategy.md)
+For more details, see the [tech strategy page](https://github.com/Create-Third-Places/.github/blob/main/profile/tech/TechStrategy.md)
 
 
 
