@@ -1,7 +1,7 @@
 # Project overview
 
 
-Free Gather is a non commercial open source platform to help people organize and host in person events. The platform will consist of the following parts.
+Free Gather is a non commercial open source platform to help people organize and host in person board game events. The platform will consist of the following parts.
 - An open API that can be used by websites to list and manage local events in a specific area.
 - A zero dependency JavaScript UI framework designed for in person event listing websites.
 
