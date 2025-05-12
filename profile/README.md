@@ -44,7 +44,7 @@ For more details, see the [tech strategy page](https://github.com/Create-Third-P
 # Development guidelines
 
 ## Development process
-- Post a comment on an issue indicating that you want to start working on it.
+- Post a comment on an issue indicating that you want to start working on it. Depending on the issue, you might be asked to share a high level approach for how you will be solving the issue.
 - Once the issue is assigned to you, and you are finished with a code change for the issue, create a PR to the main branch. If a feature is complex, split up the work into mupltiple smaller PRs if possible.
 - When creating a PR, include a description of the change.
 - Once a PR has passed the review, a maintainer will approve and merge it.
