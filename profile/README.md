@@ -1,12 +1,9 @@
 # Project overview
 
 
-Free Gather is a non commercial open source platform to help people organize and host in person board game events. The platform will consist of the following parts.
-- An open API that can be used by websites to list and manage local events in a specific area.
-- A zero dependency JavaScript UI framework designed for in person event listing websites.
+Free Gather is a non commercial open source platform to help people organize and host in person board game events. As a starting point, the project has a site specific for board games in the Washington, DC area, https://dmvboardgames.com/. 
 
-
-As a starting point, the project has a site specific for board games in the Washington, DC area, https://dmvboardgames.com/. 
+The platform is actively looking for contributors. See the section below for a project roadmap and recommended issues for first time questions. Email gulu@createthirdplaces.com if you have any questions.
 
 ## Useful links to get started
 
