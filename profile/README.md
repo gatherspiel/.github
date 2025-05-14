@@ -32,7 +32,7 @@ As a starting point, the project has a site specific for board games in the Wash
 # Tech notes
 
 ## Tech stack
-- Vanilla JavaScript with a custom framework.
+- Vanilla JavaScript/Typescript with a custom framework.
 - Vanilla CSS.
 - PostgreSQL
 - Java
