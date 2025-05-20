@@ -5,12 +5,12 @@ Free Gather is a non commercial open source platform to help people organize and
 
 The platform is actively looking for contributors. See the contributing guidelines for more information [here](https://github.com/free-gather/development/blob/main/CONTRIBUTING.md)
 
-## Useful links to get started
-
+# Useful links to get started
+- [Contribution guidelines](https://github.com/free-gather/development/blob/main/CONTRIBUTING.md)
 - Project [roadmap](https://github.com/Create-Third-Places/.github/blob/main/prplanned_features.md)
 - List of issues recommended for first time contributors: [here](https://github.com/Create-Third-Places/DMVBoardGames/issues?q=is%3Aissue%20state%3Aopen%20label%3A%22good%20first%20issue%22)
 
-## Planned features
+# Planned features
 
 - [Support for creating groups and events](https://github.com/Create-Third-Places/.github/blob/main/profile/features/CreatingGroupsAndEvents.md)
 - [User accounts](https://github.com/Create-Third-Places/.github/blob/main/profile/features/UserAccounts.md)
