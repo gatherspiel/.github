@@ -7,7 +7,6 @@ The platform is actively looking for contributors. See the contributing guidelin
 
 # Useful links to get started
 - [Contribution guidelines](https://github.com/free-gather/development/blob/main/CONTRIBUTING.md)
-- Project [roadmap](https://github.com/Create-Third-Places/.github/blob/main/prplanned_features.md)
 - List of issues recommended for first time contributors: [here](https://github.com/Create-Third-Places/DMVBoardGames/issues?q=is%3Aissue%20state%3Aopen%20label%3A%22good%20first%20issue%22)
 
 # Planned features
