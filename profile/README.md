@@ -13,17 +13,17 @@ The platform is actively looking for contributors. See the contributing guidelin
 
 - [Support for creating groups and events](https://github.com/Create-Third-Places/.github/blob/main/profile/features/CreatingGroupsAndEvents.md)
 - [User accounts](https://github.com/Create-Third-Places/.github/blob/main/profile/features/UserAccounts.md)
-- For more details about planned features, look [here](https://github.com/Create-Third-Places/.github/blob/main/planned_features.md)
+- For more details about planned features, look [here](https://github.com/gatherspiel/.github/blob/main/planned_features.md)
 
-
+https://github.com/gatherspiel/main-site
 # Repos
 
-- [api-testing](https://github.com/Create-Third-Places/api-testing): Automated testing of API endpoints.
-- [backend](https://github.com/Create-Third-Places/backend): Backend APIs.
-- [database](https://github.com/Create-Third-Places/database): Scripts related to the database.
-- [development](https://github.com/Create-Third-Places/development): Documentation and scripts for development.
-- [DMVBoardGames](https://github.com/Create-Third-Places/DMVBoardGames): Website for in person board game events in the DC area. It will use the backend APIs of this project.
-- [user-management](https://github.com/Create-Third-Places/user-management): Logic related to authentication, authorization, and managing users. This includes actions related to creating or deleting data that can only be modified by certain users.
+- [api-testing](https://github.com/gatherspiel/api-testing): Automated testing of API endpoints.
+- [backend](https://github.com/gatherspiel/backend): Backend APIs.
+- [database](https://github.com/gatherspiel/database): Scripts related to the database.
+- [development](https://github.com/gatherspiel/development): Documentation and scripts for development.
+- [DMVBoardGames](https://github.com/gatherspiel/DMVBoardGames): Website for in person board game events in the DC area. It will use the backend APIs of this project.
+- [main-site](https://github.com/gatherspiel/main-site): Code for Gatherspiel.com website.
   
 # Tech notes
 
