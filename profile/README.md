@@ -3,7 +3,7 @@
 
 Gatherspiel is a non commercial open source platform to help people organize and host in person board game events. As a starting point, the project has a site specific for board games in the Washington, DC area, https://dmvboardgames.com/. 
 
-The platform is actively looking for contributors. See the contributing guidelines for more information [here](https://github.com/free-gather/development/blob/main/CONTRIBUTING.md)
+The platform is actively looking for contributors. See the following documentation to setup a development environment and get started [here](https://github.com/free-gather/development/blob/main/CONTRIBUTING.md)
 
 # Useful links to get started
 - [Contribution guidelines](https://github.com/free-gather/development/blob/main/CONTRIBUTING.md)
