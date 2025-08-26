@@ -28,8 +28,8 @@ https://github.com/gatherspiel/main-site
 # Tech notes
 
 ## Tech stack
-- Vanilla JavaScript/Typescript with a custom framework.
-- Vanilla CSS.
+- Vanilla JavaScript/Typescript with a custom framework
+- Vanilla CSSWebAssign
 - PostgreSQL
 - Java
 
