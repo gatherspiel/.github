@@ -33,6 +33,3 @@ The platform is actively looking for contributors. See the following documentati
 - Java
 
 For more details, see the [tech strategy page](https://github.com/Create-Third-Places/.github/blob/main/profile/tech/TechStrategy.md)
-
-
-
