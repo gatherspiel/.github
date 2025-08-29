@@ -15,7 +15,6 @@ The platform is actively looking for contributors. See the following documentati
 - [User accounts](https://github.com/Create-Third-Places/.github/blob/main/profile/features/UserAccounts.md)
 - For more details about planned features, look [here](https://github.com/gatherspiel/.github/blob/main/planned_features.md)
 
-https://github.com/gatherspiel/main-site
 # Repos
 
 - [api-testing](https://github.com/gatherspiel/api-testing): Automated testing of API endpoints.
