@@ -25,7 +25,7 @@ The platform is actively looking for contributors. See the following documentati
 # Tech notes
 
 ## Tech stack
-- Vanilla JavaScript/Typescript with a custom framework
+- Vanilla JavaScript with a custom framework
 - Vanilla CSS
 - PostgreSQL
 - Java
