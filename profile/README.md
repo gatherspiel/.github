@@ -21,7 +21,6 @@ The platform is actively looking for contributors. See the following documentati
 - [development](https://github.com/gatherspiel/development): Documentation and scripts for development.
 - [DMVBoardGames](https://github.com/gatherspiel/DMVBoardGames): Website for in person board game events in the DC area. It will use the backend APIs of this project.
 - [main-site](https://github.com/gatherspiel/main-site): Code for gatherspiel.com.
-- [createthirdplaces](https://github.com/gatherspiel/createthirdplaces): Code for createthirdplaces.com
   
 # Tech notes
 
